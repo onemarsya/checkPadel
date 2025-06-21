@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "node-fetch": "^2.6.7",
-    "telegram-bot-api": "^2.5.0"
+    "node-telegram-bot-api": "^0.61.0"
   }
 }
