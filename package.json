@@ -2,7 +2,6 @@
   "name": "padel-checker",
   "version": "1.0.0",
   "main": "Padel.js",
-  "type": "module",
   "scripts": {
     "start": "node Padel.js"
   },
