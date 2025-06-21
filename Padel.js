@@ -73,9 +73,10 @@ async function checkCourt(courtId, url) {
       });
       await bot.sendMessage(CHAT_ID, msg);
     } 
-    //else {
+    else {
     //  await bot.sendMessage(CHAT_ID, '🔄 Никаких изменений – все слоты как были.');
-    //}
+      console.log(`Нет новых бронирований`);
+    }
 
     fs.writeFileSync(stateFilePath, JSON.stringify(currentData, null, 2));
 
@@ -85,8 +86,7 @@ async function checkCourt(courtId, url) {
   }
 }
 
-// Запуск каждые 30 секунд
+// Запуск единожды для каждого корта
 COURT_URLS.forEach(({ id, url }) => {
-  checkCourt(id, url); // запуск сразу
-  setInterval(() => checkCourt(id, url), 30 * 60 * 1000); // и каждый час
+  checkCourt(id, url);
 });
