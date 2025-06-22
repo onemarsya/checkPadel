@@ -86,7 +86,8 @@ async function checkCourt(courtId, url) {
   }
 }
 
-// Запуск единожды для каждого корта
+// Запуск каждые 30 секунд
 COURT_URLS.forEach(({ id, url }) => {
-  checkCourt(id, url);
+  checkCourt(id, url); // запуск сразу
+  setInterval(() => checkCourt(id, url), 30 * 60 * 1000); // и каждый час
 });
