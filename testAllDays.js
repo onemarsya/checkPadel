@@ -16,7 +16,7 @@ const STATE_PATH = path.resolve(__dirname, 'last.json');
 // Получаем 7 дней вперёд
 function getNext7Days() {
   const today = new Date();
-  return Array.from({ length: 7 }, (_, i) => {
+  return Array.from({ length: 8 }, (_, i) => {
     const d = new Date(today);
     d.setDate(d.getDate() + i);
     return {
