@@ -1,9 +1,9 @@
 {
   "name": "padel-checker",
   "version": "1.0.0",
-  "main": "Padel.js",
+  "main": "testAllDays.js",
   "scripts": {
-    "start": "node Padel.js"
+    "start": "node testAllDays.js"
   },
   "dependencies": {
     "node-fetch": "^2.6.7",
