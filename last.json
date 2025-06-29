@@ -13,7 +13,7 @@
           "timezone": "Europe/Lisbon"
         },
         "maximumCapacity": 10,
-        "reservations": 0
+        "reservations": 155
       },
       {
         "begin": {
@@ -321,7 +321,7 @@
           "timezone": "Europe/Lisbon"
         },
         "maximumCapacity": 10,
-        "reservations": 10
+        "reservations": 0
       },
       {
         "begin": {
@@ -421,7 +421,7 @@
           "timezone": "Europe/Lisbon"
         },
         "maximumCapacity": 1,
-        "reservations": 1
+        "reservations": 0
       },
       {
         "begin": {
@@ -2320,8 +2320,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 1,
-        "reservations": 1
+        "maximumCapacity": 10,
+        "reservations": 0
       },
       {
         "begin": {
@@ -2334,8 +2334,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 1,
-        "reservations": 1
+        "maximumCapacity": 10,
+        "reservations": 0
       },
       {
         "begin": {
@@ -2348,8 +2348,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 1,
-        "reservations": 1
+        "maximumCapacity": 10,
+        "reservations": 0
       },
       {
         "begin": {
@@ -2362,8 +2362,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 1,
-        "reservations": 1
+        "maximumCapacity": 10,
+        "reservations": 0
       },
       {
         "begin": {
@@ -2376,8 +2376,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -2390,8 +2390,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -2574,8 +2574,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -2588,8 +2588,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -2602,8 +2602,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -2616,8 +2616,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -2630,8 +2630,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -2798,8 +2798,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 2,
+        "reservations": 2
       },
       {
         "begin": {
@@ -2812,8 +2812,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 2,
+        "reservations": 2
       },
       {
         "begin": {
@@ -2826,8 +2826,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 2,
+        "reservations": 2
       },
       {
         "begin": {
@@ -2896,8 +2896,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -2910,8 +2910,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -2926,6 +2926,2202 @@
         },
         "maximumCapacity": 10,
         "reservations": 0
+      }
+    ],
+    "2025-07-01": [
+      {
+        "begin": {
+          "date": "2025-07-01 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 2,
+        "reservations": 2
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 2,
+        "reservations": 2
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 2,
+        "reservations": 2
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 2,
+        "reservations": 2
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      }
+    ],
+    "2025-07-02": [
+      {
+        "begin": {
+          "date": "2025-07-02 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      }
+    ],
+    "2025-07-03": [
+      {
+        "begin": {
+          "date": "2025-07-03 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      }
+    ],
+    "2025-07-04": [
+      {
+        "begin": {
+          "date": "2025-07-04 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      }
+    ],
+    "2025-07-05": [
+      {
+        "begin": {
+          "date": "2025-07-05 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      }
+    ],
+    "2025-07-06": [
+      {
+        "begin": {
+          "date": "2025-07-06 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
       }
     ]
   },
@@ -3223,7 +5419,7 @@
           "timezone": "Europe/Lisbon"
         },
         "maximumCapacity": 1,
-        "reservations": 1
+        "reservations": 0
       },
       {
         "begin": {
@@ -3237,7 +5433,7 @@
           "timezone": "Europe/Lisbon"
         },
         "maximumCapacity": 1,
-        "reservations": 1
+        "reservations": 0
       },
       {
         "begin": {
@@ -3251,7 +5447,7 @@
           "timezone": "Europe/Lisbon"
         },
         "maximumCapacity": 1,
-        "reservations": 1
+        "reservations": 0
       },
       {
         "begin": {
@@ -3603,7 +5799,7 @@
           "timezone": "Europe/Lisbon"
         },
         "maximumCapacity": 1,
-        "reservations": 1
+        "reservations": 0
       },
       {
         "begin": {
@@ -4335,7 +6531,7 @@
           "timezone": "Europe/Lisbon"
         },
         "maximumCapacity": 1,
-        "reservations": 1
+        "reservations": 0
       },
       {
         "begin": {
@@ -4505,7 +6701,7 @@
           "timezone": "Europe/Lisbon"
         },
         "maximumCapacity": 10,
-        "reservations": 0
+        "reservations": 1
       },
       {
         "begin": {
@@ -4885,7 +7081,7 @@
           "timezone": "Europe/Lisbon"
         },
         "maximumCapacity": 10,
-        "reservations": 0
+        "reservations": 1
       },
       {
         "begin": {
@@ -4983,7 +7179,7 @@
           "timezone": "Europe/Lisbon"
         },
         "maximumCapacity": 10,
-        "reservations": 0
+        "reservations": 1
       },
       {
         "begin": {
@@ -5362,8 +7558,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -5376,8 +7572,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -5784,8 +7980,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -5798,8 +7994,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -5812,8 +8008,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -5826,8 +8022,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -5840,8 +8036,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -5854,8 +8050,2204 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
+        "maximumCapacity": 1,
+        "reservations": 1
+      }
+    ],
+    "2025-07-01": [
+      {
+        "begin": {
+          "date": "2025-07-01 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
         "maximumCapacity": 10,
         "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      }
+    ],
+    "2025-07-02": [
+      {
+        "begin": {
+          "date": "2025-07-02 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      }
+    ],
+    "2025-07-03": [
+      {
+        "begin": {
+          "date": "2025-07-03 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      }
+    ],
+    "2025-07-04": [
+      {
+        "begin": {
+          "date": "2025-07-04 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      }
+    ],
+    "2025-07-05": [
+      {
+        "begin": {
+          "date": "2025-07-05 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      }
+    ],
+    "2025-07-06": [
+      {
+        "begin": {
+          "date": "2025-07-06 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
       }
     ]
   },
@@ -6971,7 +11363,7 @@
           "timezone": "Europe/Lisbon"
         },
         "maximumCapacity": 10,
-        "reservations": 0
+        "reservations": 4
       },
       {
         "begin": {
@@ -7758,8 +12150,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 1,
-        "reservations": 1
+        "maximumCapacity": 10,
+        "reservations": 0
       },
       {
         "begin": {
@@ -7772,8 +12164,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 1,
-        "reservations": 1
+        "maximumCapacity": 10,
+        "reservations": 0
       },
       {
         "begin": {
@@ -7786,8 +12178,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 1,
-        "reservations": 1
+        "maximumCapacity": 10,
+        "reservations": 0
       },
       {
         "begin": {
@@ -8110,8 +12502,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 1,
-        "reservations": 1
+        "maximumCapacity": 10,
+        "reservations": 0
       },
       {
         "begin": {
@@ -8292,8 +12684,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 2,
-        "reservations": 2
+        "maximumCapacity": 10,
+        "reservations": 0
       },
       {
         "begin": {
@@ -8306,8 +12698,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 2,
-        "reservations": 2
+        "maximumCapacity": 10,
+        "reservations": 0
       },
       {
         "begin": {
@@ -8320,8 +12712,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 2,
-        "reservations": 2
+        "maximumCapacity": 10,
+        "reservations": 0
       },
       {
         "begin": {
@@ -8334,8 +12726,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 2,
-        "reservations": 2
+        "maximumCapacity": 10,
+        "reservations": 0
       },
       {
         "begin": {
@@ -8434,8 +12826,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -8448,8 +12840,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -8462,8 +12854,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -8476,8 +12868,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -8700,8 +13092,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -8714,8 +13106,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -8728,8 +13120,8 @@
           "timezone_type": 3,
           "timezone": "Europe/Lisbon"
         },
-        "maximumCapacity": 10,
-        "reservations": 0
+        "maximumCapacity": 1,
+        "reservations": 1
       },
       {
         "begin": {
@@ -8786,6 +13178,2202 @@
         },
         "maximumCapacity": 10,
         "reservations": 0
+      }
+    ],
+    "2025-07-01": [
+      {
+        "begin": {
+          "date": "2025-07-01 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-01 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-01 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      }
+    ],
+    "2025-07-02": [
+      {
+        "begin": {
+          "date": "2025-07-02 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-02 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-02 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      }
+    ],
+    "2025-07-03": [
+      {
+        "begin": {
+          "date": "2025-07-03 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-03 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-03 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      }
+    ],
+    "2025-07-04": [
+      {
+        "begin": {
+          "date": "2025-07-04 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-04 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-04 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      }
+    ],
+    "2025-07-05": [
+      {
+        "begin": {
+          "date": "2025-07-05 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 1,
+        "reservations": 1
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-05 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-05 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      }
+    ],
+    "2025-07-06": [
+      {
+        "begin": {
+          "date": "2025-07-06 09:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 09:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 10:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 10:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 11:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 11:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 12:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 12:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 13:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 13:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 14:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 14:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 15:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 15:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 16:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 16:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 17:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 17:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 18:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 18:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 19:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 19:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 0
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 20:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 20:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 21:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
+      },
+      {
+        "begin": {
+          "date": "2025-07-06 21:30:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "end": {
+          "date": "2025-07-06 22:00:00.000000",
+          "timezone_type": 3,
+          "timezone": "Europe/Lisbon"
+        },
+        "maximumCapacity": 10,
+        "reservations": 10
       }
     ]
   }

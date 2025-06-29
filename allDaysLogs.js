@@ -13,7 +13,6 @@ const processId = 32;
 const bot = new TelegramBot(TELEGRAM_TOKEN, { polling: false });
 const STATE_PATH = path.resolve(__dirname, 'last.json');
 
-// Получаем 7 дней вперёд
 function getNext7Days() {
   const today = new Date();
   return Array.from({ length: 8 }, (_, i) => {
@@ -64,19 +63,22 @@ async function fetchDayData(courtId, year, month, day) {
     body: JSON.stringify(payload)
   });
 
+
   if (!response.ok) throw new Error('Ошибка: ' + response.status);
-  return response.json();
+  const json = await response.json();
+  return json;
 }
 
 function findNewlyBookedSlots(current, previous = []) {
   const newlyBooked = [];
-
   for (const slot of current) {
     const { begin, end, reservations } = slot;
     const match = previous.find(
       p => p.begin.date === begin.date && p.end.date === end.date
     );
-
+    console.log(match)
+    console.log(match.reservations) // 0
+    console.log(reservations) // 10
     if (match && match.reservations === 0 && reservations > 0) {
       newlyBooked.push({ start: begin.date, end: end.date });
     }
@@ -87,7 +89,8 @@ function findNewlyBookedSlots(current, previous = []) {
 
 function loadState() {
   if (fs.existsSync(STATE_PATH)) {
-    return JSON.parse(fs.readFileSync(STATE_PATH));
+    const raw = fs.readFileSync(STATE_PATH);
+    return JSON.parse(raw);
   }
   return {};
 }
@@ -102,19 +105,17 @@ async function checkCourtDay(courtId, dateObj, globalState) {
   try {
     const currentData = await fetchDayData(courtId, year, month, day);
     const current = currentData.data || [];
-
     const previous = globalState[courtId]?.[key] || [];
 
     const changes = findNewlyBookedSlots(current, previous);
 
     if (changes.length > 0) {
-      let msg = `🎾 Занялись слоты на корте #${courtId} (${key}):\n`;
+      let msg = `🎾 Свободные слоты на корте #${courtId} (${key}):\n`;
       changes.forEach(s => {
         msg += `🕒 ${formatDateTime(s.start)} – ${formatDateTime(s.end)}\n`;
       });
       await bot.sendMessage(CHAT_ID, msg);
     } else {
-      console.log(`Нет изменений: корт ${courtId}, дата ${key}`);
     }
 
     if (!globalState[courtId]) globalState[courtId] = {};
@@ -136,7 +137,7 @@ async function runAll() {
   }
 
   saveState(state);
+  console.log("Закончили")
 }
 
 runAll();
-setInterval(runAll, 30 * 60 * 1000);
